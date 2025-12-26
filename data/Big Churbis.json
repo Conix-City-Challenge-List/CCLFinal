@@ -32,7 +32,7 @@
 			"user": "Garri",
 			"link": "https://www.youtube.com/watch?v=h3hUf6yDWaU",
 			"percent": 100,
-			"hz": 60,
+			"hz":60,
 			"enjoyment": 8
 			 
 		 },
@@ -50,6 +50,14 @@
 			"percent": 100,
 			"hz": 120,
 			"enjoyment": 7.5
+
+		 },
+		 {
+			"user": "wPawoff",
+			"link": "https://youtu.be/jJ-z4scc9Eo",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 8
 		 }
 
 
