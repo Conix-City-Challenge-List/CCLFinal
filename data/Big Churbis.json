@@ -12,6 +12,50 @@
 	"enjoyment": 5,
 	"records": [
 
+		  {
+    
+            "user": "jack356095",
+			"link": "https://youtu.be/8S78Hzp0QQM?si=VGUtpHcoogftZveH",
+			"percent": 100,
+			"hz": 144,
+			"enjoyment": 8
+		  },
+		  {
+			"user": "hank182",
+			"link": "https://youtu.be/TbQRGjnczx8",
+			"percent": 100,
+			"hz": 280,
+			"enjoyment": 6.7
+
+		 },
+		 {
+			"user": "Garri",
+			"link": "https://www.youtube.com/watch?v=h3hUf6yDWaU",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 8
+			 
+		 },
+		 {
+			"user": "A7Xshin",
+			"link": "https://youtu.be/E9Hs2Anz2MA",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 6.4
+
+	     },
+		 {
+			"user": "Delta",
+			"link": "https://youtu.be/ALbGZ5pxKUI",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 7.5
+		 }
+
+
+			  
+
+
 
 	]
 }
