@@ -69,7 +69,6 @@ export default {
                     <RecordRules />
                     <hr class="divider">
                     <DifficultyInfo />
-                    <hr class="divider">
                     <CacheDisclaimer />
                 </div>
             </div>
