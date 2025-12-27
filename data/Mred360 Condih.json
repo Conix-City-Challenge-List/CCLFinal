@@ -26,6 +26,16 @@
 			"percent": 100,
 			"hz": 360,
 			"enjoyment": 0
+		},
+		{
+			
+			"user": "martin",
+            "link": "https://www.youtube.com/watch?v=y-aP4X7GMtw",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":5
+
+			
 		}
 
 			
