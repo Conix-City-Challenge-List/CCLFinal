@@ -91,8 +91,8 @@ export function score(rank, difficulty, percent, minPercent, list) {
             case 4:
 
                 /* Insane Tier */
-                minScore = 63.1;
-                maxScore = 87;
+                minScore = 130;
+                maxScore = 190;
                 break;
             case 5:
 
