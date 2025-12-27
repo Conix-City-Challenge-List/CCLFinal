@@ -18,7 +18,15 @@
             "percent": 100,
             "hz":280,
 		    "enjoyment":8.9
+		},
+		{
+            "user": "fishum",
+            "link": "https://www.youtube.com/watch?v=dFE7waLbX4w",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":6
 		}
+			
 
 
 			
