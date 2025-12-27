@@ -9,7 +9,7 @@ export default {
                 You must have achieved the record on the level that is listed on the site or on an approved bugfixed copy - please check the level ID before you submit a record!
             </p>
             <p>
-                Levels MUST be less than 30 seconds long. No longer. If It is longer than 30 seconds it will not be accepted on the list.
+                Levels MUST be less than 30 seconds long and AT LEAST 5 seconds long . If It is longer than 30 seconds or shorter than 5 seconds it will not be accepted on the list.
             </p>
             <p>
                 Completion must have clicks clearly audible in the video. (Mobile players are exempt from this rule but they should preferably have taps.)
