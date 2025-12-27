@@ -10,5 +10,16 @@
 	"difficulty": 10,
 	"records": [
 
+		{
+			
+			"user": "LCold",
+            "link": "https://youtu.be/Bkr9Ly5bZDI?si=TRhIQbjg22h1waRk",
+            "percent": 100,
+            "hz":120,
+		    "enjoyment":4
+
+			
+		}
+
 	]
 }
