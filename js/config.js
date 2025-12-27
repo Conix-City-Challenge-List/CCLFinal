@@ -39,9 +39,9 @@ export function score(rank, difficulty, percent, minPercent, list) {
     // EXPONENTIAL FUNCTION CONFIGURATION
     // Change these values to edit the exponential function.
     const maxExpScore = 500; // The maximum score given by the exponential function.
-    const minExpScore = 131; // The minimum score given by the exponential function.
-    const scoreDivider = 130 // The maximum score given by the linear function.
-    const curveBuff = 0.4; // Increase this value to steepen the curve of the exponential
+    const minExpScore = 200; // The minimum score given by the exponential function.
+    const scoreDivider = 150 // The maximum score given by the linear function.
+    const curveBuff = 0.3; // Increase this value to steepen the curve of the exponential
                            // function (must be greater than 0).
     const diffDivider = 6; // The difficulty (exclusive) at which the site will stop using
                            // the linear point system and start using the exponential one.
