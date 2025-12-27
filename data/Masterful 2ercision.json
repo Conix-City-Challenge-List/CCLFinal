@@ -12,6 +12,17 @@
 	"enjoyment": 6.7,
 	"records": [
 
+		{
+			
+			"user": "LCold",
+            "link": "https://www.youtube.com/watch?v=0X1zKCY3xcw",
+            "percent": 100,
+            "hz":120,
+		    "enjoyment":8
+
+			
+		}
+
   ]
 
 }
