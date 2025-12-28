@@ -24,6 +24,13 @@
             "percent": 100,
             "hz": 300,
 		    "enjoyment": 10
+		 },
+		{
+            "user": "BuzzBuzz",
+            "link": "https://www.youtube.com/watch?v=moNmDkdvpoc",
+            "percent": 100,
+            "hz": 240,
+		    "enjoyment": 7
 		 }
 
 	]
