@@ -21,6 +21,9 @@ export default {
                 The recording must also show the player hit the endwall and the endscreen must be shown or the completion will be invalidated.
             </p>
             <p>
+                Challenges that are just copied parts of an existing level are not allowed and won't be accepted. You can take inspiration from other levels but a straight up copied part is not allowed.
+            </p>
+            <p>
                 Do not use secret routes, skips, or bug routes!
             </p>
             <p>
