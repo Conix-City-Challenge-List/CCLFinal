@@ -13,14 +13,19 @@
 	"records": [
 
 		{
-			
 			"user": "happiguy47",
             "link": "https://www.youtube.com/watch?v=5ugq8hEKD6o",
             "percent": 100,
             "hz":910,
 		    "enjoyment":8
-
-		}
+		},
+		{
+		    "user": "BuzzBuzz",
+            "link": "https://www.youtube.com/watch?v=hDen7dkNqnQ",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":7
+	    }
 
 
   ]
