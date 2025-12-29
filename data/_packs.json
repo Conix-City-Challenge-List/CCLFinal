@@ -17,6 +17,15 @@
 			"Masterful3ercision",
 			"Masterful 2ercision"
 		]
+				
+	},
+	{
+		"name": "Easy Pack",
+		"difficulty": 1
+	},
+	{
+		"name": "Medium Pack",
+		"difficulty": 2
 		
 	},
 	{
