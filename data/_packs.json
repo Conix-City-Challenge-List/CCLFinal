@@ -20,6 +20,14 @@
 		
 	},
 	{
+		"name": "Easy Pack",
+		"difficulty": 1
+	},
+	{
+		"name": "Medium Pack",
+		"difficulty": 2
+	},
+	{
 		"name": "Hard Pack",
 		"difficulty": 3
 	},
