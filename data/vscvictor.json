@@ -38,6 +38,13 @@
             "percent": 100,
             "hz": 240,
 		    "enjoyment": 10
+							 		},	
+		{
+			"user": "ploobie",
+			"link": "https://www.youtube.com/watch?v=tcEj7kpDlNQ",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 9
 		 }
 
 	]
