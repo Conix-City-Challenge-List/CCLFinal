@@ -81,8 +81,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 9
-
-			
+		},
+		{
+			"user": "BuzzBuzz",
+			"link": "https://youtu.be/kX78k7Xi1ss",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 6.5
 		}
 
 	]
