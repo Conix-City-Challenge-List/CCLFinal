@@ -11,7 +11,15 @@
 	"difficulty": 10,
 	"enjoyment": 8,
 	"records": [
-
+     {
+    
+            "user": "Lcold",
+			"link": "https://youtu.be/cyB-f1D13ek?si=CljWt5moQ36jUsUt",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 1
+		
+		}
   ]
 
 
