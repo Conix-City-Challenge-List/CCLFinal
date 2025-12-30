@@ -192,27 +192,27 @@ export function packScore(pack) {
             case 3:
 
                 /* Hard Packs */
-                packscore = 50;
+                packscore = 75;
                 break;
             case 4:
 
                 /* Insane Packs */
-                packscore = 70;
+                packscore = 100;
                 break;
             case 5:
 
                 /* Mythical Packs */
-                packscore = 100;
+                packscore = 150;
                 break;
             case 6:
 
                 /* Extreme Packs */
-                packscore = 150;
+                packscore = 250;
                 break;
             case 7:
 
                 /* Legendary Packs */
-                packscore = 200;
+                packscore = 500;
                 break;
             default:
 
