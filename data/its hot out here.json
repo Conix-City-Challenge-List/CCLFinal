@@ -29,6 +29,15 @@
             "percent": 100,
             "hz":480,
 		    "enjoyment":3
+		},
+			
+		{
+			"user": "ZtxGMD",
+            "link": "https://youtu.be/a7MWq_MRB_U",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment": 5
+		}
 
 			
 		}
