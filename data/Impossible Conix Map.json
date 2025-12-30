@@ -55,6 +55,16 @@
 		    "enjoyment":6
 
 			
+		},
+		{
+			
+			"user": "TostGD",
+            "link": "https://www.youtube.com/watch?v=IsOa4T_Frq4",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":6.5
+
+			
 		}
 	]
 }
