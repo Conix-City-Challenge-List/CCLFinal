@@ -11,6 +11,15 @@
 	"difficulty": 8,
 	"enjoyment": 9,
 	"records": [
+        
+        {
+			
+			"user": "cookie",
+            "link": "https://youtu.be/oBXJO2rqrhs?si=ViKwKskK2wHnu1fF",
+            "percent": 100,
+            "hz":120,
+		    "enjoyment":9
+		}
 
   ]
 
