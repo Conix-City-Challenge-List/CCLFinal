@@ -12,6 +12,13 @@
 	"enjoyment": 2,
 	"records": [
 
+{
+            "user": "cookie",
+            "link": "https://youtu.be/8Ye75R9VybA?si=rSWtEUzG-Kx3NFA0",
+            "percent": 100,
+            "hz":120,
+		    "enjoyment": -100000 
+		 }
   ]
 
 }
