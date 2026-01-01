@@ -38,5 +38,15 @@
 	{
 		"name": "Legendary Pack",
 		"difficulty": 7
-	}
+	},
+	
+		"name": "
+		"name": "Masterful Series Pack",
+		"difficulty": 7,
+		"levels": [
+			"Thinking Space VI",
+			"Thinking Space VII",
+			"Thinking Space VIII"
+		]
+			}
 ]
