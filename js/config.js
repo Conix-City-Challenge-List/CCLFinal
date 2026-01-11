@@ -80,12 +80,12 @@ export function score(rank, difficulty, percent, minPercent, list) {
 
                 /* Medium Tier */
                 minScore = 13.1;
-                maxScore = 90;
+                maxScore = 75;
                 break;
             case 3:
 
                 /* Hard Tier */
-                minScore = 37.1;
+                minScore = 90;
                 maxScore = 110;
                 break;
             case 4:
