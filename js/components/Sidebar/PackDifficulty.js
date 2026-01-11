@@ -6,16 +6,16 @@ export default {
                 Legendary Packs = Packs with levels from the supreme tier and above (200 points)
             </p>
             <p>
-                Extreme Packs = Packs with levels from the extreme tier (150 points)
+                Extreme Packs = Packs with levels from the extreme tier (250 points)
             </p>
             <p>
-                Mythical Packs = Packs with levels from the mythical tier (100 points)
+                Mythical Packs = Packs with levels from the mythical tier (150 points)
             </p>
             <p>
-                Insane Packs = Packs with levels from the insane tier (70 points)
+                Insane Packs = Packs with levels from the insane tier (100 points)
             </p>
             <p>
-                Hard Packs = Packs with levels from the hard tier (50 points)
+                Hard Packs = Packs with levels from the hard tier (75 points)
             </p>
         </div>
     `
