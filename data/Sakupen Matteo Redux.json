@@ -33,6 +33,13 @@
             "percent": 100,
             "hz":120,
 		    "enjoyment": 8
+				},
+		{
+			"user": "natej22",
+            "link": "https://www.youtube.com/watch?v=N6-lG1O7-oI",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment": 8
 		}
 
   ]
