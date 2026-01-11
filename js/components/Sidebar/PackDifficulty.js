@@ -18,14 +18,6 @@ export default {
                 Hard Packs = Packs with levels from the hard tier (50 points)
             </p>
             <p>
-                Medium Packs = Packs with levels from the medium tier (30 points)
-            </p>
-            <p>
-                Easy Packs = Packs with levels from the easy tier (15 points)
-            </p>
-            <p>
-                Beginner Packs = Packs with levels from the beginner tier (5 points)
-            </p>
         </div>
     `
 }
