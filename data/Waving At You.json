@@ -53,6 +53,27 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 6
+				},
+		{
+			"user": "InitialGMD",
+			"link": "https://youtu.be/L799NRtFb2g",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 3
+						},
+		{
+			"user": "aSalv",
+			"link": "https://www.youtube.com/watch?v=_SWBhqMqZ9s",
+			"percent": 100,
+			"hz": 320,
+			"enjoyment": 10
+							},
+		{
+			"user": "GamerAJG2012",
+			"link": "https://youtu.be/OBq0nUcpyGU",
+			"percent": 100,
+			"hz": 144,
+			"enjoyment": 8
 
 			
 		}
