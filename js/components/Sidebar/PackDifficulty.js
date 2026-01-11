@@ -17,7 +17,6 @@ export default {
             <p>
                 Hard Packs = Packs with levels from the hard tier (50 points)
             </p>
-            <p>
         </div>
     `
 }
