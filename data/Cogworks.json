@@ -12,6 +12,28 @@
 	"enjoyment": 0,
 	"records": [
 
+		{
+			"user": "natej22",
+            "link": "https://www.youtube.com/watch?v=vj2PF6aDV3s",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment": 9
+		},
+		{
+			"user": "orangeyL",
+            "link": "https://youtu.be/SVw45sixakE",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment": 8
+			},
+		{
+			"user": "Yuwe.0",
+            "link": "https://www.youtube.com/watch?v=GkYsrPbE8AE",
+            "percent": 100,
+            "hz":720,
+		    "enjoyment": 9
+		}
+
   ]
 
 }
