@@ -116,6 +116,13 @@
 			"percent": 100,
 			"hz": 360,
 			"enjoyment":  7
-		  }			
+		  },	
+    		  {
+			"user": "fjkr",
+			"link": "https://youtu.be/WSUHw2VXWec",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment":  8
+		  }		
 	]
 }
