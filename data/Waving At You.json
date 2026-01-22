@@ -74,8 +74,13 @@
 			"percent": 100,
 			"hz": 144,
 			"enjoyment": 8
-
-			
-		}
+		},
+		{
+			"user": "Frandonman",
+			"link": "https://youtu.be/fnD-xVC_cIs",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 9	
+		}		
 	]
 }
