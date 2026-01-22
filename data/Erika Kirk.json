@@ -36,8 +36,14 @@
             "percent": 100,
             "hz":120,
 		    "enjoyment": 3
+		},
+		{
+			"user": "orangeyL",
+            "link": "https://youtu.be/88T_uPrer1c",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment": 9
 		}
-
 			
 
 	]
