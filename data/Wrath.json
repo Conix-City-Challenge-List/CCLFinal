@@ -81,8 +81,14 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment":  6
+		  },
+    		  {
+			"user": "Yuwe.0",
+			"link": "https://youtu.be/izxDvGlFBoo",
+			"percent": 100,
+			"hz": 720,
+			"enjoyment":  10
 		  }
-    
 
 	]
 }
