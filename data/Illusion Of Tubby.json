@@ -19,8 +19,15 @@
             "percent": 100,
             "hz":120,
 		    "enjoyment":9
+		},
+        {
+			
+			"user": "GamerAJG2012",
+            "link": "https://www.youtube.com/watch?v=j6Etaqc3-Xo",
+            "percent": 100,
+            "hz":144,
+		    "enjoyment":7
 		}
-
   ]
 
 
