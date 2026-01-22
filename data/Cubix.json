@@ -50,16 +50,19 @@
             "hz":120,
 		    "enjoyment":5
 			},
-		{
-			
+		{		
 			"user": "natej22",
             "link": "https://www.youtube.com/watch?v=5Q8qtIoiHk0",
             "percent": 100,
             "hz":240,
-		    "enjoyment":8
-
-			
+		    "enjoyment":8			
+		},
+		{		
+			"user": "orangeyL",
+            "link": "https://youtu.be/SzXgmY6guTI",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":4			
 		}
-
 	]
 }
