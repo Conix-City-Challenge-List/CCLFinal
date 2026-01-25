@@ -11,7 +11,14 @@
 	"difficulty": 5,
 	"enjoyment": 4,
 	"records": [
-
+		{	
+			"user": "orangeyL",
+            "link": "https://www.youtube.com/watch?v=_p5kx_COBl0",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":8	
+		}
+		
   ]
 
 
