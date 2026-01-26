@@ -12,6 +12,14 @@
 	"enjoyment": 8,
 	"records": [
 
+		 {
+		    "user": "Frandonman",
+			"link": "https://www.youtube.com/watch?v=rOhluZrgBDw",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9.5
+       }
+
   ]
 
 
